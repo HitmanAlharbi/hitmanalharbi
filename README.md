@@ -3,11 +3,11 @@
 
 - 📝 I regularly write articles on [Https://twitter.com/hitmanf15](Https://twitter.com/hitmanf15)
 
-- 💬 Ask me about **Web development and pentesting**
+- 💬 Ask me about: **Web development and pentesting**
 
-- 📫 How to reach me **Hitman05607@gmail.com**
+- 📫 How to reach me: **Hitman05607@gmail.com**
 
-- ⚡ Fun fact **I love and hate PHP**
+- ⚡ Fun fact: **I love and hate PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
